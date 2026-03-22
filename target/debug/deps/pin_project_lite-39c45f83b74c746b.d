@@ -1,0 +1,5 @@
+/home/li/git/samskara-reader/target/debug/deps/pin_project_lite-39c45f83b74c746b.d: /home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pin-project-lite-0.2.17/src/lib.rs
+
+/home/li/git/samskara-reader/target/debug/deps/libpin_project_lite-39c45f83b74c746b.rmeta: /home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pin-project-lite-0.2.17/src/lib.rs
+
+/home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pin-project-lite-0.2.17/src/lib.rs:

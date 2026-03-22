@@ -1,0 +1,13 @@
+/home/li/git/samskara-reader/target/debug/deps/smartstring-0028c4c6a04277a8.d: /home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/lib.rs /home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/config.rs /home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/marker_byte.rs /home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/inline.rs /home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/boxed.rs /home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/casts.rs /home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/iter.rs /home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/ops.rs /home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/serde.rs
+
+/home/li/git/samskara-reader/target/debug/deps/libsmartstring-0028c4c6a04277a8.rmeta: /home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/lib.rs /home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/config.rs /home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/marker_byte.rs /home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/inline.rs /home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/boxed.rs /home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/casts.rs /home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/iter.rs /home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/ops.rs /home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/serde.rs
+
+/home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/lib.rs:
+/home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/config.rs:
+/home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/marker_byte.rs:
+/home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/inline.rs:
+/home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/boxed.rs:
+/home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/casts.rs:
+/home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/iter.rs:
+/home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/ops.rs:
+/home/li/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smartstring-1.0.1/src/serde.rs:

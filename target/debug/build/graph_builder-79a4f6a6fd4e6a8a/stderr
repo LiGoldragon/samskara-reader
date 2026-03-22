@@ -1,0 +1,42 @@
+warning: the feature `maybe_uninit_write_slice` has been stable since 1.93.0 and no longer requires an attribute to enable
+ --> /home/li/git/samskara-reader/target/debug/build/graph_builder-79a4f6a6fd4e6a8a/out/probe.rs:2:12
+  |
+2 | #![feature(maybe_uninit_write_slice)]
+  |            ^^^^^^^^^^^^^^^^^^^^^^^^
+  |
+  = note: `#[warn(stable_features)]` on by default
+
+error[E0599]: no function or associated item named `write_slice` found for union `MaybeUninit<T>` in the current scope
+   --> /home/li/git/samskara-reader/target/debug/build/graph_builder-79a4f6a6fd4e6a8a/out/probe.rs:8:18
+    |
+  8 |     MaybeUninit::write_slice(
+    |                  ^^^^^^^^^^^ function or associated item not found in `MaybeUninit<_>`
+    |
+note: if you're trying to build a new `MaybeUninit<_>` consider using one of the following associated functions:
+      MaybeUninit::<T>::new
+      MaybeUninit::<T>::uninit
+      MaybeUninit::<T>::zeroed
+   --> /nix/store/5aar2hccfgyca0jbhv5wyc4dngmqdrxg-rust-nightly-latest-2026-03-20/lib/rustlib/src/rust/library/core/src/mem/maybe_uninit.rs:406:5
+    |
+406 |     pub const fn new(val: T) -> MaybeUninit<T> {
+    |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+429 |     pub const fn uninit() -> MaybeUninit<T> {
+    |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+479 |     pub const fn zeroed() -> MaybeUninit<T> {
+    |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+error: aborting due to 1 previous error; 1 warning emitted
+
+For more information about this error, try `rustc --explain E0599`.
+warning: the feature `new_uninit` has been stable since 1.82.0 and no longer requires an attribute to enable
+ --> /home/li/git/samskara-reader/target/debug/build/graph_builder-79a4f6a6fd4e6a8a/out/probe.rs:2:12
+  |
+2 | #![feature(new_uninit)]
+  |            ^^^^^^^^^^
+  |
+  = note: `#[warn(stable_features)]` on by default
+
+warning: 1 warning emitted
+

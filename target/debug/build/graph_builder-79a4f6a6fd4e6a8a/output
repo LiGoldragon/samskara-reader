@@ -1,0 +1,3 @@
+cargo:rustc-cfg=has_new_uninit
+cargo:rustc-cfg=has_slice_partition_dedup
+cargo:rustc-cfg=has_doc_cfg
