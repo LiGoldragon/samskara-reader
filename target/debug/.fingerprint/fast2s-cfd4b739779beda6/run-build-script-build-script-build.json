@@ -1,1 +1,0 @@
-{"rustc":13352977832619202179,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[12342625211971519969,"build_script_build",false,12400882277206359324]],"local":[{"RerunIfChanged":{"output":"debug/build/fast2s-cfd4b739779beda6/output","paths":["build.rs","src/t2s.txt"]}}],"rustflags":[],"config":0,"compile_kind":0}
